@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ygksuiri64hct9rEauC34GZ2FKXoWYBZ/3zsSDpBQu9Tee+Aq8iTp23oiuLos2uOWjUet+ps80K24cfdofyIbA==",
+  "dgSpecHash": "GNxr6QcxzI//wphUXL39d21DMaUbwc2MHf3Lef8oJd0mkPygzm6s2WuqmDgSQmdcmBfToBKx8Y7NAYR6posaIw==",
   "success": true,
   "projectFilePath": "C:\\Users\\jeffp\\source\\repos\\ef-core-6-fundamentals\\PublisherData\\PublisherData.csproj",
   "expectedPackageFiles": [
@@ -45,7 +45,10 @@
     "C:\\Users\\jeffp\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\jeffp\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\jeffp\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
-    "C:\\Users\\jeffp\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+    "C:\\Users\\jeffp\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\jeffp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\jeffp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\jeffp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
   ],
   "logs": []
 }

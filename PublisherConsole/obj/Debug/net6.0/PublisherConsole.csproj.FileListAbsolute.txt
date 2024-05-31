@@ -1,84 +1,3 @@
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals\ef-core-6-fundamentals\demos\M02 Building Your FIrst App\Before\PublisherConsole\bin\Debug\net6.0\PublisherConsole.exe
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals\ef-core-6-fundamentals\demos\M02 Building Your FIrst App\Before\PublisherConsole\bin\Debug\net6.0\PublisherConsole.deps.json
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals\ef-core-6-fundamentals\demos\M02 Building Your FIrst App\Before\PublisherConsole\bin\Debug\net6.0\PublisherConsole.runtimeconfig.json
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals\ef-core-6-fundamentals\demos\M02 Building Your FIrst App\Before\PublisherConsole\bin\Debug\net6.0\PublisherConsole.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals\ef-core-6-fundamentals\demos\M02 Building Your FIrst App\Before\PublisherConsole\bin\Debug\net6.0\PublisherConsole.pdb
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals\ef-core-6-fundamentals\demos\M02 Building Your FIrst App\Before\PublisherConsole\bin\Debug\net6.0\PublisherDomain.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals\ef-core-6-fundamentals\demos\M02 Building Your FIrst App\Before\PublisherConsole\bin\Debug\net6.0\PublisherDomain.pdb
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals\ef-core-6-fundamentals\demos\M02 Building Your FIrst App\Before\PublisherConsole\obj\Debug\net6.0\PublisherConsole.csproj.AssemblyReference.cache
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals\ef-core-6-fundamentals\demos\M02 Building Your FIrst App\Before\PublisherConsole\obj\Debug\net6.0\PublisherConsole.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals\ef-core-6-fundamentals\demos\M02 Building Your FIrst App\Before\PublisherConsole\obj\Debug\net6.0\PublisherConsole.AssemblyInfoInputs.cache
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals\ef-core-6-fundamentals\demos\M02 Building Your FIrst App\Before\PublisherConsole\obj\Debug\net6.0\PublisherConsole.AssemblyInfo.cs
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals\ef-core-6-fundamentals\demos\M02 Building Your FIrst App\Before\PublisherConsole\obj\Debug\net6.0\PublisherConsole.csproj.CoreCompileInputs.cache
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals\ef-core-6-fundamentals\demos\M02 Building Your FIrst App\Before\PublisherConsole\obj\Debug\net6.0\PublisherConsole.csproj.CopyComplete
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals\ef-core-6-fundamentals\demos\M02 Building Your FIrst App\Before\PublisherConsole\obj\Debug\net6.0\PublisherConsole.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals\ef-core-6-fundamentals\demos\M02 Building Your FIrst App\Before\PublisherConsole\obj\Debug\net6.0\refint\PublisherConsole.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals\ef-core-6-fundamentals\demos\M02 Building Your FIrst App\Before\PublisherConsole\obj\Debug\net6.0\PublisherConsole.pdb
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals\ef-core-6-fundamentals\demos\M02 Building Your FIrst App\Before\PublisherConsole\obj\Debug\net6.0\PublisherConsole.genruntimeconfig.cache
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals\ef-core-6-fundamentals\demos\M02 Building Your FIrst App\Before\PublisherConsole\obj\Debug\net6.0\ref\PublisherConsole.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\PublisherConsole.exe
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\PublisherConsole.deps.json
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\PublisherConsole.runtimeconfig.json
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\PublisherConsole.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\PublisherConsole.pdb
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\PublisherDomain.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\PublisherDomain.pdb
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\obj\Debug\net6.0\PublisherConsole.csproj.AssemblyReference.cache
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\obj\Debug\net6.0\PublisherConsole.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\obj\Debug\net6.0\PublisherConsole.AssemblyInfoInputs.cache
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\obj\Debug\net6.0\PublisherConsole.AssemblyInfo.cs
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\obj\Debug\net6.0\PublisherConsole.csproj.CoreCompileInputs.cache
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\obj\Debug\net6.0\PublisherConsole.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\obj\Debug\net6.0\refint\PublisherConsole.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\obj\Debug\net6.0\PublisherConsole.pdb
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\obj\Debug\net6.0\PublisherConsole.genruntimeconfig.cache
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\obj\Debug\net6.0\ref\PublisherConsole.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\System.Runtime.Caching.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\PublisherData.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\PublisherData.pdb
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Humanizer.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\jeffp\source\repos\ef-core-6-fundamentals-sln\PublisherConsole\obj\Debug\net6.0\Publishe.5CC16949.Up2Date
 C:\Users\jeffp\source\repos\ef-core-6-fundamentals\PublisherConsole\bin\Debug\net6.0\PublisherConsole.exe
 C:\Users\jeffp\source\repos\ef-core-6-fundamentals\PublisherConsole\bin\Debug\net6.0\PublisherConsole.deps.json
 C:\Users\jeffp\source\repos\ef-core-6-fundamentals\PublisherConsole\bin\Debug\net6.0\PublisherConsole.runtimeconfig.json
@@ -136,6 +55,7 @@ C:\Users\jeffp\source\repos\ef-core-6-fundamentals\PublisherConsole\obj\Debug\ne
 C:\Users\jeffp\source\repos\ef-core-6-fundamentals\PublisherConsole\obj\Debug\net6.0\PublisherConsole.AssemblyInfoInputs.cache
 C:\Users\jeffp\source\repos\ef-core-6-fundamentals\PublisherConsole\obj\Debug\net6.0\PublisherConsole.AssemblyInfo.cs
 C:\Users\jeffp\source\repos\ef-core-6-fundamentals\PublisherConsole\obj\Debug\net6.0\PublisherConsole.csproj.CoreCompileInputs.cache
+C:\Users\jeffp\source\repos\ef-core-6-fundamentals\PublisherConsole\obj\Debug\net6.0\PublisherConsole.sourcelink.json
 C:\Users\jeffp\source\repos\ef-core-6-fundamentals\PublisherConsole\obj\Debug\net6.0\Publishe.5CC16949.Up2Date
 C:\Users\jeffp\source\repos\ef-core-6-fundamentals\PublisherConsole\obj\Debug\net6.0\PublisherConsole.dll
 C:\Users\jeffp\source\repos\ef-core-6-fundamentals\PublisherConsole\obj\Debug\net6.0\refint\PublisherConsole.dll
