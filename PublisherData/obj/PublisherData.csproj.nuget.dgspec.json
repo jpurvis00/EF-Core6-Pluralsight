@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeffp\\source\\repos\\ef-core-6-fundamentals\\PublisherData\\PublisherData.csproj": {}
+    "C:\\Users\\jeffp\\Source\\Repos\\EF-Core6-Pluralsight\\PublisherData\\PublisherData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeffp\\source\\repos\\ef-core-6-fundamentals\\PublisherData\\PublisherData.csproj": {
+    "C:\\Users\\jeffp\\Source\\Repos\\EF-Core6-Pluralsight\\PublisherData\\PublisherData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeffp\\source\\repos\\ef-core-6-fundamentals\\PublisherData\\PublisherData.csproj",
+        "projectUniqueName": "C:\\Users\\jeffp\\Source\\Repos\\EF-Core6-Pluralsight\\PublisherData\\PublisherData.csproj",
         "projectName": "PublisherData",
-        "projectPath": "C:\\Users\\jeffp\\source\\repos\\ef-core-6-fundamentals\\PublisherData\\PublisherData.csproj",
+        "projectPath": "C:\\Users\\jeffp\\Source\\Repos\\EF-Core6-Pluralsight\\PublisherData\\PublisherData.csproj",
         "packagesPath": "C:\\Users\\jeffp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeffp\\source\\repos\\ef-core-6-fundamentals\\PublisherData\\obj\\",
+        "outputPath": "C:\\Users\\jeffp\\Source\\Repos\\EF-Core6-Pluralsight\\PublisherData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jeffp\\source\\repos\\ef-core-6-fundamentals\\PublisherDomain\\PublisherDomain.csproj": {
-                "projectPath": "C:\\Users\\jeffp\\source\\repos\\ef-core-6-fundamentals\\PublisherDomain\\PublisherDomain.csproj"
+              "C:\\Users\\jeffp\\Source\\Repos\\EF-Core6-Pluralsight\\PublisherDomain\\PublisherDomain.csproj": {
+                "projectPath": "C:\\Users\\jeffp\\Source\\Repos\\EF-Core6-Pluralsight\\PublisherDomain\\PublisherDomain.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "C:\\Users\\jeffp\\source\\repos\\ef-core-6-fundamentals\\PublisherDomain\\PublisherDomain.csproj": {
+    "C:\\Users\\jeffp\\Source\\Repos\\EF-Core6-Pluralsight\\PublisherDomain\\PublisherDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeffp\\source\\repos\\ef-core-6-fundamentals\\PublisherDomain\\PublisherDomain.csproj",
+        "projectUniqueName": "C:\\Users\\jeffp\\Source\\Repos\\EF-Core6-Pluralsight\\PublisherDomain\\PublisherDomain.csproj",
         "projectName": "PublisherDomain",
-        "projectPath": "C:\\Users\\jeffp\\source\\repos\\ef-core-6-fundamentals\\PublisherDomain\\PublisherDomain.csproj",
+        "projectPath": "C:\\Users\\jeffp\\Source\\Repos\\EF-Core6-Pluralsight\\PublisherDomain\\PublisherDomain.csproj",
         "packagesPath": "C:\\Users\\jeffp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeffp\\source\\repos\\ef-core-6-fundamentals\\PublisherDomain\\obj\\",
+        "outputPath": "C:\\Users\\jeffp\\Source\\Repos\\EF-Core6-Pluralsight\\PublisherDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

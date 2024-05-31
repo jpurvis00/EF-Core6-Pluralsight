@@ -66,10 +66,10 @@ Console.WriteLine();
 //RetrieveAnArtistWithTheirCovers();
 //RetrieveACoverWithItsArtists();
 //GetAllBooksWithTheirCovers();
-//MultiLevelInclude();
+MultiLevelInclude();
 //SimpleRawSQL();
 //TwoWaysToCallStoredProceduresUsingRawSql();
-DeleteCover(4);
+//DeleteCover(4);
 
 /* The following runs the DeleteCover stored procedure. It deletes the cover id passed to it. This delete
  * also has a cascading delete and deletes any data related to that cover in any of the other tables.

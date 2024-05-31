@@ -10,3 +10,15 @@ C:\Users\jeffp\source\repos\ef-core-6-fundamentals\PublisherDomain\obj\Debug\net
 C:\Users\jeffp\source\repos\ef-core-6-fundamentals\PublisherDomain\obj\Debug\net6.0\refint\PublisherDomain.dll
 C:\Users\jeffp\source\repos\ef-core-6-fundamentals\PublisherDomain\obj\Debug\net6.0\PublisherDomain.pdb
 C:\Users\jeffp\source\repos\ef-core-6-fundamentals\PublisherDomain\obj\Debug\net6.0\ref\PublisherDomain.dll
+C:\Users\jeffp\Source\Repos\EF-Core6-Pluralsight\PublisherDomain\bin\Debug\net6.0\PublisherDomain.deps.json
+C:\Users\jeffp\Source\Repos\EF-Core6-Pluralsight\PublisherDomain\bin\Debug\net6.0\PublisherDomain.dll
+C:\Users\jeffp\Source\Repos\EF-Core6-Pluralsight\PublisherDomain\bin\Debug\net6.0\PublisherDomain.pdb
+C:\Users\jeffp\Source\Repos\EF-Core6-Pluralsight\PublisherDomain\obj\Debug\net6.0\PublisherDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffp\Source\Repos\EF-Core6-Pluralsight\PublisherDomain\obj\Debug\net6.0\PublisherDomain.AssemblyInfoInputs.cache
+C:\Users\jeffp\Source\Repos\EF-Core6-Pluralsight\PublisherDomain\obj\Debug\net6.0\PublisherDomain.AssemblyInfo.cs
+C:\Users\jeffp\Source\Repos\EF-Core6-Pluralsight\PublisherDomain\obj\Debug\net6.0\PublisherDomain.csproj.CoreCompileInputs.cache
+C:\Users\jeffp\Source\Repos\EF-Core6-Pluralsight\PublisherDomain\obj\Debug\net6.0\PublisherDomain.sourcelink.json
+C:\Users\jeffp\Source\Repos\EF-Core6-Pluralsight\PublisherDomain\obj\Debug\net6.0\PublisherDomain.dll
+C:\Users\jeffp\Source\Repos\EF-Core6-Pluralsight\PublisherDomain\obj\Debug\net6.0\refint\PublisherDomain.dll
+C:\Users\jeffp\Source\Repos\EF-Core6-Pluralsight\PublisherDomain\obj\Debug\net6.0\PublisherDomain.pdb
+C:\Users\jeffp\Source\Repos\EF-Core6-Pluralsight\PublisherDomain\obj\Debug\net6.0\ref\PublisherDomain.dll

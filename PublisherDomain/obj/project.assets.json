@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jeffp\\source\\repos\\ef-core-6-fundamentals\\PublisherDomain\\PublisherDomain.csproj",
+      "projectUniqueName": "C:\\Users\\jeffp\\Source\\Repos\\EF-Core6-Pluralsight\\PublisherDomain\\PublisherDomain.csproj",
       "projectName": "PublisherDomain",
-      "projectPath": "C:\\Users\\jeffp\\source\\repos\\ef-core-6-fundamentals\\PublisherDomain\\PublisherDomain.csproj",
+      "projectPath": "C:\\Users\\jeffp\\Source\\Repos\\EF-Core6-Pluralsight\\PublisherDomain\\PublisherDomain.csproj",
       "packagesPath": "C:\\Users\\jeffp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jeffp\\source\\repos\\ef-core-6-fundamentals\\PublisherDomain\\obj\\",
+      "outputPath": "C:\\Users\\jeffp\\Source\\Repos\\EF-Core6-Pluralsight\\PublisherDomain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

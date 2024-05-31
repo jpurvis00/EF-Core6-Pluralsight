@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PublisherData
-build_property.ProjectDir = C:\Users\jeffp\source\repos\ef-core-6-fundamentals\PublisherData\
+build_property.ProjectDir = C:\Users\jeffp\Source\Repos\EF-Core6-Pluralsight\PublisherData\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
