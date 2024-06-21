@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bhMT0FhLe7gtteAT7WsIQstXr9wCUhkeL4M6CH4fkm4WopIKqXmRFnyvs3llj6DI0oE1iUqazdqG6AMaJ9voUA==",
+  "dgSpecHash": "r2WwugOxZeNalFfZtoEmwDsZGSiiT48TEek6Gj0ThMaqP8hAlkB5jtacDkvi/iRtIo+w4dkjiPIgMizPggPURw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeffp\\Source\\Repos\\EF-Core6-Pluralsight\\PublisherData\\PublisherData.csproj",
+  "projectFilePath": "C:\\Users\\jeffp\\source\\repos\\EF-Core6-Pluralsight\\PublisherData\\PublisherData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeffp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jeffp\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

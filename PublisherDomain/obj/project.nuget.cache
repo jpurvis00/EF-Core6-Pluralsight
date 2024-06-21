@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H6tcg0lBdyePifQy1DHE5z9NewZE5CwP4v6cBJmoPNyNRJ4LIgWEaeMa2kMwS6Lhw0Q7rLXd8mh/foQhMGVy0Q==",
+  "dgSpecHash": "cYspVze3pc/kF+ilFlEMwKe7Tx1pX2I/McawqLmyMFfZ2LSVEsXonsQrFsaj2EsAK68/1rTd8odc9gopQepXNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeffp\\Source\\Repos\\EF-Core6-Pluralsight\\PublisherDomain\\PublisherDomain.csproj",
+  "projectFilePath": "C:\\Users\\jeffp\\source\\repos\\EF-Core6-Pluralsight\\PublisherDomain\\PublisherDomain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeffp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
     "C:\\Users\\jeffp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
